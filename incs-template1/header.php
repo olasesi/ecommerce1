@@ -10,8 +10,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="author" content="">
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Ecommerce Site</title>
+    <meta name="description" content="theme proproject">
+    <title>Ecommerce Shop</title>
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700&amp;amp;subset=latin-ext" rel="stylesheet">
     <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/Linearicons/Linearicons/Font/demo-files/demo.css">
