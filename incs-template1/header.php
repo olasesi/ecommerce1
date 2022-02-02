@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Martfury - Multipurpose Marketplace HTML5 Template + Admin Template</title>
+    <title>Ecommerce Site</title>
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700&amp;amp;subset=latin-ext" rel="stylesheet">
     <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/Linearicons/Linearicons/Font/demo-files/demo.css">
